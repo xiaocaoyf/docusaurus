@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 文档介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎使用这里有觅在线文档管理
 
 ## Getting Started
 
